@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <!-- Languages & Tools Badges -->
 ## Languages & Tools
 
@@ -14,7 +15,12 @@
 <!-- Dynamic Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PointerToObject&layout=compact&theme=dracula&hide_border=true&langs_count=5)
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Writing+code+closer+to+the+metal;Reverse+engineering+for+the+win" alt="Typing SVG" />
+<!-- Achievements -->
+## Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
+![Total Stars](https://img.shields.io/github/stars/PointerToObject?style=for-the-badge&logo=github&logoColor=white&color=orange) &nbsp;
+![Total Forks](https://img.shields.io/github/forks/PointerToObject?style=for-the-badge&logo=github&logoColor=white&color=green) &nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
