@@ -12,9 +12,11 @@
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-FF6B35?style=for-the-badge&logoColor=white) &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=simple-icons:visualstudio&logoColor=white)
 
+
 <!-- Dynamic Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PointerToObject&layout=compact&theme=dracula&hide_border=true&langs_count=5)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PointerToObject&layout=compact&theme=dracula&hide_border=true&langs_count=5)
+
 
 <!-- Achievements -->
 ## Achievements
