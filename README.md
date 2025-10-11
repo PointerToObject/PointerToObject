@@ -20,7 +20,7 @@
 
 <!-- Achievements -->
 ## Achievements
-
+![Starstruck](https://img.shields.io/badge/Starstruck-FFD700?style=for-the-badge&logo=github&logoColor=black) &nbsp;
 ![Total Stars](https://img.shields.io/github/stars/PointerToObject?style=for-the-badge&logo=github&logoColor=white&color=orange) &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
