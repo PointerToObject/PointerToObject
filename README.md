@@ -2,7 +2,8 @@
 
 ## Languages & Tools
 
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) &nbsp;
+![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) &nbsp;
+![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-FF6D00?style=for-the-badge&logoColor=white) &nbsp;
