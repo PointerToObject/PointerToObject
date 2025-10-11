@@ -18,9 +18,8 @@
 <!-- Achievements -->
 ## Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 ![Total Stars](https://img.shields.io/github/stars/PointerToObject?style=for-the-badge&logo=github&logoColor=white&color=orange) &nbsp;
-![Total Forks](https://img.shields.io/github/forks/PointerToObject?style=for-the-badge&logo=github&logoColor=white&color=green) &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 
 </div>
