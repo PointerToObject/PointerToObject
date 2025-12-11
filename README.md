@@ -13,10 +13,13 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=simple-icons:visualstudio&logoColor=white)
 
 
-<!-- Dynamic Top Languages Card -->
-![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&cache_seconds=3600)
+<p align="center">
 
-![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=PointerToObject&layout=compact&theme=dracula&hide_border=true&langs_count=5&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=PointerToObject&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=PointerToObject&layout=compact&theme=dracula&hide_border=true&langs_count=5)
+
+</p>
 
 
 
