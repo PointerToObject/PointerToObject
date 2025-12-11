@@ -1,26 +1,17 @@
 <p align="center">
 
-## Languages & Tools
+<!-- Profile Summary (Flat Theme) -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PointerToObject&theme=flat)
 
-![8086 Assembly](https://img.shields.io/badge/8086%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)  
-![x86-64 Assembly](https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-FF6D00?style=for-the-badge&logo=ida&logoColor=white)  
-![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-FF6B35?style=for-the-badge&logo=cheatengine&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+<!-- Languages by Repo (Flat Theme) -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PointerToObject&theme=flat)
 
----
+<!-- Optional: Most Commit Languages (Flat Theme) -->
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PointerToObject&theme=flat)
 
-<!-- Summary card (works reliably) -->
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PointerToObject&theme=dracula)
-
-<!-- Per-language breakdown (good fallback for "top languages") -->
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PointerToObject&theme=dracula)
-
-<!-- Useful static badges -->
-![GitHub stars](https://img.shields.io/github/stars/PointerToObject?style=for-the-badge)  
-![GitHub followers](https://img.shields.io/github/followers/PointerToObject?style=for-the-badge)  
-![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<!-- Stats badges -->
+![GitHub Stars](https://img.shields.io/github/stars/PointerToObject?style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/PointerToObject?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&style=flat)
 
 </p>
