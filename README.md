@@ -17,7 +17,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/PointerToObject?style=for-the-badge)  
 ![Profile Views](https://komarev.com/ghpvc/?username=PointerToObject&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad67a8ab-b0dd-4402-984e-89e6b9ba097a" />
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/ad67a8ab-b0dd-4402-984e-89e6b9ba097a" />
 
 
 </p>
