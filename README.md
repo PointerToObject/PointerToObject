@@ -10,7 +10,7 @@
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PointerToObject&theme=dracula)
 
 <!-- Per-language breakdown (good fallback for "top languages") -->
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PointerToObject&theme=dracula)<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ad67a8ab-b0dd-4402-984e-89e6b9ba097a" />
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PointerToObject&theme=dracula)<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/ad67a8ab-b0dd-4402-984e-89e6b9ba097a" />
 
 <!-- Useful static badges -->
 ![GitHub stars](https://img.shields.io/github/stars/PointerToObject?style=for-the-badge)  
